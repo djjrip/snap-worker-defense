@@ -1,0 +1,89 @@
+{
+  "participant": {
+    "name": "Jayson Quindao",
+    "workInTexasId": "162656345",
+    "snapCaseId": "1050282557",
+    "phone": "(469) 371-8556",
+    "email": "jquindao1@icloud.com",
+    "employmentGoal": "Software Engineer"
+  },
+  "reportingPeriod": {
+    "id": "WEEK_SAMPLE",
+    "label": "Sample Compliance Week",
+    "startDate": "10/19/2026",
+    "endDate": "10/23/2026"
+  },
+  "caseworker": {
+    "name": "Coretta Robinson",
+    "title": "Career Advisor I - SNAP/TANF",
+    "phone": "(469) 865-2307",
+    "email": "corobinson@wfsdallas.com"
+  },
+  "workforceCenter": {
+    "name": "Grand Prairie Workforce Center",
+    "address": "801 S. State Hwy 161, Suite 500, Grand Prairie, TX 75051"
+  },
+  "contacts": [
+    {
+      "company": "Cockroach Labs",
+      "position": "Sr. Corporate Security Engineer",
+      "address": "125 W 25th St, New York, NY (Remote)",
+      "date": "10/19/2026",
+      "hours": 2.0,
+      "method": "Live Video Screen / Guide ATS",
+      "contactName": "Sam Sarasti",
+      "contactEmail": "ssarasti@cockroachlabs.com",
+      "proofRef": "Guide ATS ID #100707",
+      "notes": "Recruiter Screen Completed"
+    },
+    {
+      "company": "Actalent Services (Capital One Account)",
+      "position": "Software Engineer (12-Mo Hybrid)",
+      "address": "Plano, TX Campus",
+      "date": "10/23/2026",
+      "hours": 2.0,
+      "method": "Direct Recruiter Submission",
+      "contactName": "Angela Letto",
+      "contactEmail": "aletto@actalentservices.com",
+      "phone": "(847) 273-7622",
+      "proofRef": "Message ID #100884",
+      "notes": "Python, AWS, MCP Stack Submission"
+    },
+    {
+      "company": "CoreWeave",
+      "position": "Cloud Infrastructure Engineer",
+      "address": "Remote / Livingston, NJ",
+      "date": "10/22/2026",
+      "hours": 2.0,
+      "method": "Internet / Greenhouse ATS",
+      "contactName": "CoreWeave Staffing",
+      "contactEmail": "careers@coreweave.com",
+      "proofRef": "Greenhouse Ref #CW-88219",
+      "notes": "Application Submitted"
+    },
+    {
+      "company": "Datadog",
+      "position": "Software Engineer, Telemetry & Agents",
+      "address": "New York, NY (Remote)",
+      "date": "10/22/2026",
+      "hours": 2.0,
+      "method": "Internet / Greenhouse ATS",
+      "contactName": "Datadog Talent Team",
+      "contactEmail": "careers@datadoghq.com",
+      "proofRef": "ATS Ref #DD-APP-549102",
+      "notes": "Application in Review"
+    },
+    {
+      "company": "Lockheed Martin",
+      "position": "Systems Integration SWE",
+      "address": "Grand Prairie, TX Facility",
+      "date": "10/23/2026",
+      "hours": 2.0,
+      "method": "WorkInTexas Match / Direct Portal",
+      "contactName": "Defense Staffing",
+      "contactEmail": "systemalert@geosolinc.com",
+      "proofRef": "WIT Order #17088492",
+      "notes": "State Referral Match"
+    }
+  ]
+}

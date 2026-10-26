@@ -1,0 +1,28 @@
+{
+  "name": "snap-worker-defense",
+  "version": "1.0.0",
+  "description": "Open-source civic worker defense engine. Generates verified, state-compliant SNAP Employment & Training (E&T) weekly job search packets and proof receipts.",
+  "main": "src/index.js",
+  "bin": {
+    "snap-defense": "bin/snap-defense.js"
+  },
+  "scripts": {
+    "test": "node test/generator.test.js",
+    "generate": "node bin/snap-defense.js"
+  },
+  "keywords": [
+    "snap",
+    "public-benefits",
+    "worker-defense",
+    "civic-tech",
+    "workforce-solutions",
+    "food-stamps",
+    "puppeteer",
+    "pdf-generator"
+  ],
+  "author": "Jayson Quindao <jquindao1@icloud.com> (https://github.com/djjrip)",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^22.0.0"
+  }
+}
